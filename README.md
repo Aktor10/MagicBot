@@ -1,0 +1,2 @@
+# MagicBot
+DiscordBot
