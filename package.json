@@ -1,0 +1,28 @@
+{
+  "name": "magicbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "Aktor10",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^5.5.5",
+    "nodemon": "^2.0.19"
+  },
+  "description": "DiscordBot",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aktor10/MagicBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aktor10/MagicBot/issues"
+  },
+  "homepage": "https://github.com/Aktor10/MagicBot#readme"
+}
